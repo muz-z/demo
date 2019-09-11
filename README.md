@@ -1,8 +1,8 @@
-#Demo Project README
+# Demo Project README
 
 This is simple readme file
 
-##Heading 2
+## Heading 2
 
 some text
 
